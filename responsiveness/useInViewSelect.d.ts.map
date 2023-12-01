@@ -1,0 +1,1 @@
+{"version":3,"file":"useInViewSelect.d.ts","sourceRoot":"","sources":["../../src/responsiveness/useInViewSelect.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,KAAK,MAAM,OAAO,CAAC;AAE/B,eAAO,MAAM,sBAAsB,KAAK,CAAC;AACzC,eAAO,MAAM,WAAW,KAAK,CAAC;AAE9B,wBAAgB,eAAe,CAAC,GAAG,EAAE,KAAK,CAAC,SAAS,CAAC,WAAW,CAAC,EAAE,IAAI,EAAE,KAAK,CAAC,SAAS,CAAC,WAAW,CAAC,EAAE,MAAM,SAAI;;;;;;;;;EAgBhH"}

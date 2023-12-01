@@ -1,0 +1,1 @@
+{"version":3,"file":"addTopLevelItemDefinition.d.ts","sourceRoot":"","sources":["../../src/mutations/addTopLevelItemDefinition.ts"],"names":[],"mappings":"AAAA,OAAO,EACL,mBAAmB,EACnB,sBAAsB,EACvB,MAAM,6DAA6D,CAAC;AAGrE,wBAAgB,yBAAyB,CAAC,EACxC,WAAW,EACX,OAAO,GACR,EAAE;IACD,WAAW,EAAE,mBAAmB,CAAC;IACjC,OAAO,CAAC,EAAE,OAAO,CAAC,sBAAsB,CAAC,CAAC;CAC3C;;;;;;;;;;;;;;;;;;EAKA"}

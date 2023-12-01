@@ -1,0 +1,1 @@
+{"version":3,"file":"ShapeOptions.d.ts","sourceRoot":"","sources":["../../src/propertiesPanel/ShapeOptions.tsx"],"names":[],"mappings":";AAgBA,OAAO,oBAAoB,CAAC;AAG5B,wBAAgB,YAAY,CAAC,EAC3B,aAAa,EACb,OAAO,EACP,qBAAqB,EACrB,oBAAoB,GACrB,EAAE;IACD,aAAa,EAAE,OAAO,CAAC;IACvB,OAAO,EAAE,MAAM,EAAE,CAAC;IAClB,qBAAqB,EAAE,OAAO,CAAC;IAC/B,oBAAoB,EAAE,OAAO,CAAC;CAC/B,eA4WA"}

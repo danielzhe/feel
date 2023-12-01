@@ -1,0 +1,1 @@
+{"version":3,"file":"BkmProperties.d.ts","sourceRoot":"","sources":["../../src/propertiesPanel/BkmProperties.tsx"],"names":[],"mappings":";AACA,OAAO,EAAE,8BAA8B,EAAE,MAAM,6DAA6D,CAAC;AAY7G,wBAAgB,aAAa,CAAC,EAC5B,GAAG,EACH,SAAS,EACT,KAAK,GACN,EAAE;IACD,GAAG,EAAE,8BAA8B,CAAC;IACpC,SAAS,EAAE,MAAM,GAAG,SAAS,CAAC;IAC9B,KAAK,EAAE,MAAM,CAAC;CACf,eAuFA"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"KnowledgeSourceProperties.d.ts","sourceRoot":"","sources":["../../src/propertiesPanel/KnowledgeSourceProperties.tsx"],"names":[],"mappings":";AACA,OAAO,EAAE,uBAAuB,EAAE,MAAM,6DAA6D,CAAC;AAWtG,wBAAgB,yBAAyB,CAAC,EACxC,eAAe,EACf,SAAS,EACT,KAAK,GACN,EAAE;IACD,eAAe,EAAE,uBAAuB,CAAC;IACzC,SAAS,EAAE,MAAM,GAAG,SAAS,CAAC;IAC9B,KAAK,EAAE,MAAM,CAAC;CACf,eAqGA"}

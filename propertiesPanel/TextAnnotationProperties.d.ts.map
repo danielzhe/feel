@@ -1,0 +1,1 @@
+{"version":3,"file":"TextAnnotationProperties.d.ts","sourceRoot":"","sources":["../../src/propertiesPanel/TextAnnotationProperties.tsx"],"names":[],"mappings":";AACA,OAAO,EAAE,sBAAsB,EAAE,MAAM,6DAA6D,CAAC;AAQrG,wBAAgB,wBAAwB,CAAC,EACvC,cAAc,EACd,KAAK,GACN,EAAE;IACD,cAAc,EAAE,sBAAsB,CAAC;IACvC,KAAK,EAAE,MAAM,CAAC;CACf,eAmEA"}

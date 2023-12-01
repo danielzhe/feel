@@ -1,0 +1,1 @@
+{"version":3,"file":"DecisionProperties.d.ts","sourceRoot":"","sources":["../../src/propertiesPanel/DecisionProperties.tsx"],"names":[],"mappings":";AACA,OAAO,EAAE,gBAAgB,EAAE,MAAM,6DAA6D,CAAC;AAY/F,wBAAgB,kBAAkB,CAAC,EACjC,QAAQ,EACR,SAAS,EACT,KAAK,GACN,EAAE;IACD,QAAQ,EAAE,gBAAgB,CAAC;IAC3B,SAAS,EAAE,MAAM,GAAG,SAAS,CAAC;IAC9B,KAAK,EAAE,MAAM,CAAC;CACf,eAwIA"}
