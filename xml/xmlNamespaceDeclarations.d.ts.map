@@ -1,1 +1,0 @@
-{"version":3,"file":"xmlNamespaceDeclarations.d.ts","sourceRoot":"","sources":["../../src/xml/xmlNamespaceDeclarations.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,8BAA8B,EAAE,MAAM,0BAA0B,CAAC;AAG1E,wBAAgB,8BAA8B,CAAC,EAC7C,KAAK,EACL,SAAS,GACV,EAAE;IACD,KAAK,EAAE,8BAA8B,GAAG,SAAS,CAAC;IAClD,SAAS,EAAE,MAAM,CAAC;CACnB,sBAaA"}
